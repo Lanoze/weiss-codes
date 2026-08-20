@@ -1,0 +1,861 @@
+-------------------------------------
+------ Inicializando Sistema --------
+-------------------------------------
+Buzzer configurado!
+Inicializando o cartão SD...
+Gravando dados iniciais!
+[ATENÇÃO] Erro ao iniciar MPU[ATENÇÃO] Erro ao iniciar BMP
+Skib configurados!
+GPS conectado!
+Failed to read BMP
+Failed to read BMP
+Failed to read BMP
+Failed to read BMP
+Failed to read BMP
+Buzzer ativado!
+Buzzer desativado!
+Buzzer ativado!
+Buzzer desativado!
+Buzzer ativado!
+Buzzer desativado!
+Setando a potência de transmissão do LORA para 21dbm
+Reset reason: 1
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 0.00
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 
+ - Hour: 
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00000+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 6.67
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00001+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 8.41
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00002+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 9.66
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00003+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 10.91
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00004+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 12.15
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00005+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 13.40
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00006+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 14.65
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00007+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 15.90
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00008+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 17.14
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00009+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 18.39
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00010+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 19.64
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00011+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 20.88
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00012+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 22.13
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00013+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 23.38
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00014+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 24.62
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00015+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 25.87
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00016+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 27.12
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00017+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 28.37
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00018+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 29.61
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00019+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 30.86
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00020+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 32.11
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00021+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 33.35
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00022+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 34.60
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00023+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 35.85
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00024+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 37.10
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00025+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 38.34
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00026+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 39.59
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00027+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 40.84
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00028+000000+0000+000+000+000+0000000000000000
+Error ao gravar em data.txt
+==== Dados registrados no momento ====
+[AvionicData]
+ - Time: 42.08
+ - Parachute: 0
+[BmpData]
+ - Temperature: 0.00
+ - Pressure: 0.00
+ - Altitude: 0.00
+[ImuData]
+ - AccelX: 0.00
+ - AccelY: 0.00
+ - AccelZ: 0.00
+ - Quaternion W: 0.00
+ - Quaternion X: 0.00
+ - Quaternion Y: 0.00
+ - Quaternion Z: 0.00
+[GpsData]
+ - Date: 0/0/0
+ - Hour: 0:0:0
+ - Latitude: 0.000000
+ - Longitude: 0.000000
+[SoloData]
+ - OpenParachute: 0
+====================================
+Failed to read BMP
+[ATENÇÃO] Erro ao iniciar MPUIsDropping: 0
+00029+000000+0000+000+000+000+0000000000000000

@@ -1,0 +1,4751 @@
+Informations
+--------------------------------
+Data n°0
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°1
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°2
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°3
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°4
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°5
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°6
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°7
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°8
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°9
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°10
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°11
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°12
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°13
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°14
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°15
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°16
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°17
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°18
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°19
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°20
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°21
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°22
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°23
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°24
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°25
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°26
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°27
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°28
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°29
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°30
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°31
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°32
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°33
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°34
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°35
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°36
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°37
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°38
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°39
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°40
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°41
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°42
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°43
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°44
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°45
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°46
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°47
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°48
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°49
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°50
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°51
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°52
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°53
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°54
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°55
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°56
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°57
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°58
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°59
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°60
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°61
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°62
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°63
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°64
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°65
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°66
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°67
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°68
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°69
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°70
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°71
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°72
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°73
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°74
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°75
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°76
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°77
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°78
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°79
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°80
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°81
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°82
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°83
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°84
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°85
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°86
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°87
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°88
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°89
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°90
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°91
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°92
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°93
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°94
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°95
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°96
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°97
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°98
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°99
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°100
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°101
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°102
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°103
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°104
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°105
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°106
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°107
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°108
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°109
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°110
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°111
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°112
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°113
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°114
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°115
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°116
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°117
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°118
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°119
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°120
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°121
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°122
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°123
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°124
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°125
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°126
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°127
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°128
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°129
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°130
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°131
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°132
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°133
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°134
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°135
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°136
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°137
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°138
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°139
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°140
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°141
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°142
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°143
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°144
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°145
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°146
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°147
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°148
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°149
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°150
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°151
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°152
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°153
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°154
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°155
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°156
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°157
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°158
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°159
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°160
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°161
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°162
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°163
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°164
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°165
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°166
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°167
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°168
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°169
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°170
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°171
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°172
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°173
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°174
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°175
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°176
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°177
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°178
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°179
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°180
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°181
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°182
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°183
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°184
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°185
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°186
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°187
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°188
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°189
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°190
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°191
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°192
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°193
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°194
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°195
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°196
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°197
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°198
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°199
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°200
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°201
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°202
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°203
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°204
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°205
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°206
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°207
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°208
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°209
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°210
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°211
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°212
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°213
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°214
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°215
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°216
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°217
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°218
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°219
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°220
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°221
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°222
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°223
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°224
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°225
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°226
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°227
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°228
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°229
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°230
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°231
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°232
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°233
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°234
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°235
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°236
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°237
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°238
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°239
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°240
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°241
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°242
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°243
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°244
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°245
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°246
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°247
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°248
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
+--------------------------------
+Data n°249
+Horário: 0:0:0
+Data: 0/0/0
+Temperatura: 0.00
+Pressão: 0.00
+Altitude: 0.00
+Aceleração em X: 0.00
+Aceleração em Y: 0.00
+Aceleração em Z: 0.00
+Quaternion W: 0.00
+Quaternion X: 0.00
+Quaternion Y: 0.00
+Quaternion Z: 0.00
+Paraquedas: 0
+Latitude: 0.00
+Longitude: 0.00
+
+
