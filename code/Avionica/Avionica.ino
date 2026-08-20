@@ -13,7 +13,7 @@
 #define ENABLE_BMP true
 #define ENABLE_MPU true
 #define ENABLE_SKIBS true
-#define ENABLE_SD false
+#define ENABLE_SD true
 #define ENABLE_TELEMETRY false
 #define ENABLE_GPS true
 
@@ -182,6 +182,7 @@ void flash_down() {
 
 void setup()
 {
+  delay(2000);
   Wire.begin();
   Wire.setClock(400000);
 
